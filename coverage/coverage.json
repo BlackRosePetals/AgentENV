@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "71.59%",
+    "missed": 1634,
+    "total": 5751
+  },
+  "generated_at": "2026-09-03T16:26:27Z",
+  "lines": {
+    "coverage": "76.32%",
+    "missed": 11467,
+    "total": 48435
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "75.39%",
+    "missed": 16831,
+    "total": 68383
+  },
+  "run_url": "https://github.com/BlackRosePetals/AgentENV/actions/runs/33775611798"
+}
